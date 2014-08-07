@@ -17,6 +17,18 @@ p.small {
     font-size: 16px;
 }
 
+.btn-primary {
+    color: #FFF;
+    background-color:#200213;
+    border-color: #fff;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    color: #200213;
+    background-color: #fff;
+    border-color: #200213;
+}
+
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:hover,
@@ -82,6 +94,10 @@ hr.star-primary:after {
 hr.star-light {
     border-color: #200213;
 }
+
+#about hr.star-light{    
+    border-color: #fff;
+} 
 
 hr.star-light:after {
     color: #200213;

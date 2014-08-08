@@ -60,7 +60,7 @@ h6 {
 }
 
 .navbar-default {
-    background-color: rgba(26, 1, 16, 0.8);
+    background-color: rgba(75, 0, 45, 0.8);
     border-color: transparent;
 }
 
@@ -219,7 +219,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #200213;
+    background: #711245;
 }
 
 @media(max-width:767px) {
@@ -385,7 +385,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #200213;
+    background-color: #5C0A38;
 }
 
 footer .footer-col {
@@ -394,7 +394,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #15000C;
+    background-color: #200213;
 }
 
 .btn-social {
